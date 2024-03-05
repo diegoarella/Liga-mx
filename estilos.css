@@ -1,0 +1,71 @@
+@charset "utf-8";
+#principal {
+    background-color: #090080;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#encabezado {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+	color: #80E9FF;
+    text-align: center;
+    width: 1000px;
+}
+#menu{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		font-size: 40px;
+	text-align: center;
+	height: 50px;
+	width: 1000px;
+	clear: both;
+}
+#logo{
+	width: 100px;
+	height: 100px;
+	background-color:#090080;
+	float:left;
+}
+#titulo{
+	width: 900px;
+	height: 100px;
+	background-color:#0027A4;
+	float:left;
+}
+#cuerpo{
+	background: #4C93F3;
+	width: 1000px;
+}
+#pie{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 12px;
+	font-style: italic;
+	color: #0E0A70;
+	heigth: 50px; 
+	width: 1000px;
+}
+#derechos{
+	width: 500px;
+	height: 50px;
+	float: left;
+}
+#redes{
+	width: 500px;
+	text-align: right;
+	height: 50px;
+	float: left;	
+}.imagenes {
+    width: 230px;
+    height: 150px;
+}
+.escudos {
+    height: 155px;
+    min-width: 0px;
+    width: 155px;
+}
+table{
+	width:1000px;
+}.playeras {
+    width: 155px;
+    height: 150px;
+}
